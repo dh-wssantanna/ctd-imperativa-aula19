@@ -1,17 +1,17 @@
 /* 
     Aula 19 - Criando uma API parte I
     
-    (  ) Importar o módulo Express.
-    (  ) Inicializar o contrutor do Express.
-    (  ) Criando a Rota e retornando um arquivo HTML.
-    (  ) Criando um interceptador para configurar o formato JSON como requisição para o servidor.
-    (  ) Inicializar o servidor.
+    ( x ) Importar o módulo Express.
+    ( x ) Inicializar o contrutor do Express.
+    ( x ) Criando a Rota e retornando um arquivo HTML.
+    ( x ) Criando um interceptador para configurar o formato JSON como requisição para o servidor.
+    ( x ) Inicializar o servidor.
 
     Extras
-    (  ) Importanto o módulo CadastrarProfessor para reaproveitar o cadastro no "banco de dados" improvisado.
-    (  ) Separando os atributos do objeto.
-    (  ) Cadastro do professor em nosso "banco de dados" improvidado.
-    (  ) Apresentar uma mensagem confirmando o cadastro e permitindo que o usuário realizar um novo cadastro.
+    ( x ) Importanto o módulo CadastrarProfessor para reaproveitar o cadastro no "banco de dados" improvisado.
+    ( x ) Separando os atributos do objeto.
+    ( x ) Cadastro do professor em nosso "banco de dados" improvidado.
+    ( x ) Apresentar uma mensagem confirmando o cadastro e permitindo que o usuário realizar um novo cadastro.
 */
 
 // 1. Importar o módulo Express.
